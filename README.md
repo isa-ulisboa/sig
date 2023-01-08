@@ -1,6 +1,4 @@
 # SIG
-Sistemas de Informação Geográfica 1o ciclo ISA
-
 Elementos de apoio às UC da área dos SIG (Geomática e SIGDR) elaborados no quadro do ensino nas licenciaturas do ISA/ULisboa
 
 ---
