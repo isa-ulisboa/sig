@@ -25,8 +25,8 @@
 ## Dados para os exercícios
 
 ### Secção 1: Introdução a QGIS3
-### Secção 2: 
-### Secção 3
+### Secção 2: Acesso a dados e criação de dados geográficos
+### Secção 3: Análise espacial para dados vetoriais
 
 - [Carta dos Solos/DGADR](https://snisolos.dgadr.gov.pt/downloads)
 - Rede estradas (roads), linhas de água (waterways), uso do solo (landuse), etc [Dados OpenStreetMap para Portugal](https://download.geofabrik.de/europe/portugal.html)
