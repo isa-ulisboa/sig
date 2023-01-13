@@ -33,4 +33,4 @@
 - CAOP: Carta Administrativa Oficial de Portugal -- ver [Registo Nacional de dados geográficos/SNIG](https://snig.dgterritorio.gov.pt/rndg/srv/por/catalog.search#/home)
 - COS: Carta de Uso e Ocupação do Solo -- ver [Registo Nacional de dados geográficos/SNIG](https://snig.dgterritorio.gov.pt/rndg/srv/por/catalog.search#/home)
 - Tabelas simples [ProtRV e ProdS](analise_espacial_cascais/tabelas_simples_cascais.zip)
-- Caso não seja possível obter os dados geográficos nos links acima: [LAgua, RedeViaria, CartaSolos, UsoSolos, LimConc]() já pré-processados.
+- Caso não seja possível obter os dados geográficos nos links acima: [LAgua, RedeViaria, CartaSolos, UsoSolos, LimConc](analise_espacial_cascais/dados_geog_input_cascais.zip) já pré-processados.
