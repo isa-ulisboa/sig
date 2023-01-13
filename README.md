@@ -1,4 +1,4 @@
-# SIG: Elementos de apoio às UC da área dos SIG (Geomática e SIGDR) elaborados no quadro do ensino nas licenciaturas do ISA/ULisboa
+# Elementos de apoio às UC da área dos SIG (Geomática e SIGDR) elaborados no quadro do ensino nas licenciaturas do ISA/ULisboa
 
 ---
 
