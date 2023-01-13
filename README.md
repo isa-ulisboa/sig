@@ -33,4 +33,4 @@ Elementos de apoio às UC da área dos SIG (Geomática e SIGDR) elaborados no qu
 - Rede estradas (roads), linhas de água (waterways), uso do solo (landuse), etc [Dados OpenStreetMap para Portugal](https://download.geofabrik.de/europe/portugal.html)
 - CAOP: Carta Administrativa Oficial de Portugal -- ver [Registo Nacional de dados geográficos/SNIG](https://snig.dgterritorio.gov.pt/rndg/srv/por/catalog.search#/home)
 - COS: Carta de Uso e Ocupação do Solo -- ver [Registo Nacional de dados geográficos/SNIG](https://snig.dgterritorio.gov.pt/rndg/srv/por/catalog.search#/home)
-- Tabelas simples [ProtRV](analise_espacial_cascais/ProtRV.csv) e [ProdS](analise_espacial_cascais/ProdS.csv)
+- Tabelas simples [ProtRV, ProdS](analise_espacial_cascais/tabelas_simples_cascais.zip)
