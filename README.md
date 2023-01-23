@@ -10,7 +10,7 @@
 
 ## Caderno de Apoio às Aulas Práticas de Sistemas de Informação Geográfica
 
-[Caderno de apoio]()
+[Caderno de apoio](Caderno-aulas-praticas-qgis3_SIG.pdf)
 
 ---
 
