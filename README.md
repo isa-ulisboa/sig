@@ -16,7 +16,7 @@
 
 ## Link para canal youtube com as resoluções dos exercícios do caderno de apoio às aulas práticas
 
-[Canal Youtube](https://www.youtube.com/channel/UCUCqRyuduyzHxYYY_g_m-kw)
+[Canal Youtube](https://www.youtube.com/@qgis3emportugues)
 
 <!--  comments
 ### Script python para Seccao 1.B.1: Primeiro exemplo de script de Python em QGIS, 'processing.run' e 'History'
