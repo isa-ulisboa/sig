@@ -2,7 +2,7 @@
 
 ---
 
-## Projeções de apoio às aulas téricas de Sistemas de Informação Geográfica
+## Projeções de apoio às aulas teóricas
 
 [Projeções](slides_uc_sig_2023.pdf) (versão provisória de 23 de janeiro de 2023)
 
@@ -14,7 +14,7 @@
 
 ---
 
-## Link para canal youtube onde as resolução dos exercícios estão disponíveis
+## Link para canal youtube com as resoluções dos exercícios do caderno das práticas
 
 [Canal Youtube](https://www.youtube.com/channel/UCUCqRyuduyzHxYYY_g_m-kw)
 
