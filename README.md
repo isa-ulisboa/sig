@@ -4,7 +4,7 @@
 
 ## Projeções de apoio às aulas téricas de Sistemas de Informação Geográfica
 
-[Projeções]() (versão provisória de 23 de janeiro de 2023)
+[Projeções](slides_uc_sig_2023.pdf) (versão provisória de 23 de janeiro de 2023)
 
 ---
 
