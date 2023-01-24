@@ -8,13 +8,13 @@
 
 ---
 
-## Caderno de Apoio às Aulas Práticas de Sistemas de Informação Geográfica
+## Caderno de apoio às aulas práticas de Sistemas de Informação Geográfica
 
 [Caderno de apoio](Caderno-aulas-praticas-qgis3_SIG.pdf) (versão provisória de 23 de janeiro de 2023)
 
 ---
 
-## Link para canal youtube com as resoluções dos exercícios do caderno das práticas
+## Link para canal youtube com as resoluções dos exercícios do caderno de apoio às aulas práticas
 
 [Canal Youtube](https://www.youtube.com/channel/UCUCqRyuduyzHxYYY_g_m-kw)
 
