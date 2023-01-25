@@ -65,3 +65,9 @@ Dados de levantamento topográfico:
 Descarregar o modelo digital de elevações para Portugal Continental (Secção 6.4):
 - [SRTM-DEM EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/); ou
 - [ALOS-AW3D30 EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/), com algumas falhas.
+
+### Secção 7: Imagens multiespectrais
+
+Imagens multiespectrais (7 bandas) Landsat-8 OLI para a zona do Alqueva:
+- [Imagem de 15 de maio 2014](LC82030332014151.zip)
+- [Imagem de 1 de junho 2014](LC82030332014167.zip)
