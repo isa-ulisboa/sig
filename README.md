@@ -43,3 +43,13 @@ Descarregar os dados para o exercício dos repositórios seguintes:
 
 Caso não seja possível obter os dados geográficos nos links acima:
 - [LAgua, RedeViaria, CartaSolos, UsoSolos, LimConc](analise_espacial_cascais/dados_geog_input_cascais.zip) já pré-processados.
+
+### Secção 6: Representação cartográfica do relevo
+
+Dados topográficos:
+- (Secção 6.2) Portalegre: Curvas de nível, pontos cotados, linhas de água, linhas de festo
+- (Secção 6.4) Montejunto: Curvas de nível, pontos cotados, linhas de água
+
+Descarregar o modelo digital de elevações para Portugal Continental (Secção 6.4):
+- [SRTM-DEM EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/); ou
+- [ALOS-AW3D30 EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/), com algumas falhas.
