@@ -44,6 +44,11 @@ Descarregar os dados para o exercício dos repositórios seguintes:
 Caso não seja possível obter os dados geográficos nos links acima:
 - [LAgua, RedeViaria, CartaSolos, UsoSolos, LimConc](analise_espacial_cascais/dados_geog_input_cascais.zip) já pré-processados.
 
+### Secção 4: Análise de dados "raster" e conversão vetorial/matricial
+
+Dados vetoriais e "raster" para a região de Esposende:
+- [Freguesias, uso do solo, tipo de solo, limites do aquífero, medições pontuais de concentrações de nitratos](Dados_Esposende_3763.zip)
+
 ### Secção 6: Representação cartográfica do relevo
 
 Dados de levantamento topográfico: 
