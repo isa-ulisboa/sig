@@ -32,8 +32,8 @@
 
 ### Secção 1: Introdução a QGIS3
 
-Dados vetoriais (concelhos de Portugel Continental, linhas de água) e tabela simples:
-- [Con2016,LAgua,VACc](IntroQGIS.zip)
+Dados vetoriais (concelhos de Portugal Continental, linhas de água) e tabela simples:
+- [Conc2016, linhasAgua, VACc](IntroQGIS.zip)
 
 Descarregar o modelo digital de elevações para Portugal Continental (25 m)
 - [SRTM-DEM EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/); ou
