@@ -46,9 +46,9 @@ Caso não seja possível obter os dados geográficos nos links acima:
 
 ### Secção 6: Representação cartográfica do relevo
 
-Dados topográficos:
-- (Secção 6.2) Portalegre: Curvas de nível, pontos cotados, linhas de água, linhas de festo
-- (Secção 6.4) Montejunto: Curvas de nível, pontos cotados, linhas de água
+Dados de levantamento topográfico: 
+- (Secção 6.2) Portalegre: [Curvas de nível, pontos cotados, linhas de água, linhas de festo, EPSG:20790]()
+- (Secção 6.4) Paisagem Protegida da Serra de Montejunto: [Curvas de nível, pontos cotados, linhas de água, EPSG:3763]()
 
 Descarregar o modelo digital de elevações para Portugal Continental (Secção 6.4):
 - [SRTM-DEM EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/); ou
