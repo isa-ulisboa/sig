@@ -28,7 +28,7 @@
 
 ---
 
-## Dados para os exercícios
+## Dados para os exercícios do caderno de apoio às aulas práticas
 
 ### Secção 1: Introdução a QGIS3
 
