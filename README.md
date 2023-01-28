@@ -51,7 +51,7 @@ Descarregar os dados para o exercício dos repositórios seguintes:
 Caso não seja possível obter os dados geográficos nos links acima:
 - [LAgua, RedeViaria, CartaSolos, UsoSolos, LimConc](analise_espacial_cascais/dados_geog_input_cascais.zip) já pré-processados.
 
-Scripts em Python para resolver o problema:
+Scripts em Python para QGIS:
 - [main.py, cascais_COS_OSM_funcoes_auxiliares.py](python_qgis/cascais)
 
 ### Secção 4: Análise de dados "raster" e conversão vetorial/matricial
