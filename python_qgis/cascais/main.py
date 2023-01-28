@@ -3,7 +3,6 @@
 # Copyright Manuel Campagnolo 2023
 
 import qgis # already loaded
-from qgis.core import QgsProject
 import processing # idem
 import os # file management
 import sys # to get sys.path
