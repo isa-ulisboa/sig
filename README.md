@@ -39,6 +39,9 @@ Descarregar o modelo digital de elevações para Portugal Continental (25 m)
 - [SRTM-DEM EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/); ou
 - [ALOS-AW3D30 EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/), com algumas falhas.
 
+Scripts em Python para QGIS:
+- Secção 1..5.2 [Seleção por atributos e por localização](python_qgis/introQGIS/concMondego.py)
+
 ### Secção 3: Análise espacial para dados vetoriais
 
 Descarregar os dados para o exercício dos repositórios seguintes:
