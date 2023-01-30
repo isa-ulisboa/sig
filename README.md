@@ -33,37 +33,37 @@
 ### Secção 1: Introdução a QGIS3
 
 Dados vetoriais (concelhos de Portugal Continental, linhas de água) e tabela simples:
-- [Conc2016, linhasAgua, VACc](IntroQGIS.zip)
+- [Zip file: Conc2016, linhasAgua, VACc](IntroQGIS.zip)
 
 Descarregar o modelo digital de elevações para Portugal Continental (25 m)
-- [SRTM-DEM EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/); ou
-- [ALOS-AW3D30 EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/), com algumas falhas.
+- [Link: SRTM-DEM EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/); ou
+- [Link: ALOS-AW3D30 EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/), com algumas falhas.
 
 Scripts em Python para QGIS:
-- Secção 1.4.7 [Criar legenda qualitativa e usar random.randint() para criar cores aleatórias](python_qgis/introQGIS/legenda_qualitativa_random_mylayer.py)
-- Secção 1.4.8 [Criar legenda quantitativa para layer vetorial e colocar etiquetas](python_qgis/introQGIS/legenda_quantitativa_mylayer.py)
-- Secção 1.5.2 [Seleção por atributos e por localização](python_qgis/introQGIS/concMondego.py)
+- Secção 1.4.7 [Download file: Criar legenda qualitativa e usar random.randint() para criar cores aleatórias](python_qgis/introQGIS/legenda_qualitativa_random_mylayer.py)
+- Secção 1.4.8 [Download file: Criar legenda quantitativa para layer vetorial e colocar etiquetas](python_qgis/introQGIS/legenda_quantitativa_mylayer.py)
+- Secção 1.5.2 [Download file: Seleção por atributos e por localização](python_qgis/introQGIS/concMondego.py)
 
 ### Secção 3: Análise espacial para dados vetoriais
 
 Descarregar os dados para o exercício dos repositórios seguintes:
-- Tabelas simples [ProtRV e ProdS](analise_espacial_cascais/tabelas_simples_cascais.zip) 
-- [Carta dos Solos](https://snisolos.dgadr.gov.pt/downloads) no site da DGADR
+- Tabelas simples [Zip file: ProtRV e ProdS](analise_espacial_cascais/tabelas_simples_cascais.zip) 
+- [Link: Carta dos Solos](https://snisolos.dgadr.gov.pt/downloads) no site da DGADR
 - Rede estradas (roads), linhas de água (waterways), uso do solo (landuse), etc [Dados OpenStreetMap para Portugal](https://download.geofabrik.de/europe/portugal.html)
-- CAOP: Carta Administrativa Oficial de Portugal no [Registo Nacional de dados geográficos/SNIG](https://snig.dgterritorio.gov.pt/rndg/srv/por/catalog.search#/home)
-- COS: Carta de Uso e Ocupação do Solo no [Registo Nacional de dados geográficos/SNIG](https://snig.dgterritorio.gov.pt/rndg/srv/por/catalog.search#/home)
+- CAOP: Carta Administrativa Oficial de Portugal no [Link: Registo Nacional de dados geográficos/SNIG](https://snig.dgterritorio.gov.pt/rndg/srv/por/catalog.search#/home)
+- COS: Carta de Uso e Ocupação do Solo no [Link: Registo Nacional de dados geográficos/SNIG](https://snig.dgterritorio.gov.pt/rndg/srv/por/catalog.search#/home)
 
 Caso não seja possível obter os dados geográficos nos links acima:
-- [LAgua, RedeViaria, CartaSolos, UsoSolos, LimConc](analise_espacial_cascais/dados_geog_input_cascais.zip) já pré-processados.
+- [Zip file: LAgua, RedeViaria, CartaSolos, UsoSolos, LimConc](analise_espacial_cascais/dados_geog_input_cascais.zip) já pré-processados.
 
 Scripts em Python para QGIS:
-- [main.py](python_qgis/cascais/main.py)
-- [cascais_COS_OSM_funcoes_auxiliares.py](python_qgis/cascais/cascais_COS_OSM_funcoes_auxiliares.py)
+- [Download file: main.py](python_qgis/cascais/main.py)
+- [Download file: cascais_COS_OSM_funcoes_auxiliares.py](python_qgis/cascais/cascais_COS_OSM_funcoes_auxiliares.py)
 
 ### Secção 4: Análise de dados "raster" e conversão vetorial/matricial
 
 Dados vetoriais e "raster" para a região de Esposende:
-- [Freguesias, uso do solo, tipo de solo, limites do aquífero, medições pontuais de concentrações de nitratos](Dados_Esposende_3763.zip)
+- [Zip file: Freguesias, uso do solo, tipo de solo, limites do aquífero, medições pontuais de concentrações de nitratos](Dados_Esposende_3763.zip)
 
 ### Secção 6: Representação cartográfica do relevo
 
@@ -72,11 +72,11 @@ Dados de levantamento topográfico:
 - (Secção 6.4) Paisagem Protegida da Serra de Montejunto: [Curvas de nível, pontos cotados, linhas de água, EPSG:3763](representacao_terreno_montejunto_3763.zip)
 
 Descarregar o modelo digital de elevações para Portugal Continental (Secção 6.4):
-- [SRTM-DEM EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/); ou
-- [ALOS-AW3D30 EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/), com algumas falhas.
+- [Link: SRTM-DEM EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/); ou
+- [Link: ALOS-AW3D30 EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/), com algumas falhas.
 
 ### Secção 7: Imagens multiespectrais
 
 Imagens multiespectrais (7 bandas) Landsat-8 OLI para a zona do Alqueva:
-- [Imagem de 15 de maio 2014](LC82030332014151.zip)
-- [Imagem de 1 de junho 2014](LC82030332014167.zip)
+- [Zip file: Imagem de 15 de maio 2014](LC82030332014151.zip)
+- [Zip file: Imagem de 1 de junho 2014](LC82030332014167.zip)
