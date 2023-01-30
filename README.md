@@ -33,7 +33,7 @@
 ### Secção 1: Introdução a QGIS3
 
 Dados vetoriais (concelhos de Portugal Continental, linhas de água) e tabela simples:
-- [Zip file: Conc2016, linhasAgua, VACc](IntroQGIS.zip)
+- [Download zip file: Conc2016, linhasAgua, VACc](IntroQGIS.zip)
 
 Descarregar o modelo digital de elevações para Portugal Continental (25 m)
 - [Link: SRTM-DEM EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/); ou
@@ -47,14 +47,14 @@ Scripts em Python para QGIS:
 ### Secção 3: Análise espacial para dados vetoriais
 
 Descarregar os dados para o exercício dos repositórios seguintes:
-- Tabelas simples [Zip file: ProtRV e ProdS](analise_espacial_cascais/tabelas_simples_cascais.zip) 
+- Tabelas simples [Download zip file: ProtRV e ProdS](analise_espacial_cascais/tabelas_simples_cascais.zip) 
 - [Link: Carta dos Solos](https://snisolos.dgadr.gov.pt/downloads) no site da DGADR
 - Rede estradas (roads), linhas de água (waterways), uso do solo (landuse), etc [Dados OpenStreetMap para Portugal](https://download.geofabrik.de/europe/portugal.html)
 - CAOP: Carta Administrativa Oficial de Portugal no [Link: Registo Nacional de dados geográficos/SNIG](https://snig.dgterritorio.gov.pt/rndg/srv/por/catalog.search#/home)
 - COS: Carta de Uso e Ocupação do Solo no [Link: Registo Nacional de dados geográficos/SNIG](https://snig.dgterritorio.gov.pt/rndg/srv/por/catalog.search#/home)
 
 Caso não seja possível obter os dados geográficos nos links acima:
-- [Zip file: LAgua, RedeViaria, CartaSolos, UsoSolos, LimConc](analise_espacial_cascais/dados_geog_input_cascais.zip) já pré-processados.
+- [Download zip file: LAgua, RedeViaria, CartaSolos, UsoSolos, LimConc](analise_espacial_cascais/dados_geog_input_cascais.zip) já pré-processados.
 
 Scripts em Python para QGIS:
 - [Download script: main.py](python_qgis/cascais/main.py)
@@ -63,13 +63,13 @@ Scripts em Python para QGIS:
 ### Secção 4: Análise de dados "raster" e conversão vetorial/matricial
 
 Dados vetoriais e "raster" para a região de Esposende:
-- [Zip file: Freguesias, uso do solo, tipo de solo, limites do aquífero, medições pontuais de concentrações de nitratos](Dados_Esposende_3763.zip)
+- [Download zip file: Freguesias, uso do solo, tipo de solo, limites do aquífero, medições pontuais de concentrações de nitratos](Dados_Esposende_3763.zip)
 
 ### Secção 6: Representação cartográfica do relevo
 
 Dados de levantamento topográfico: 
-- (Secção 6.2) Portalegre: [Curvas de nível, pontos cotados, linhas de água, linhas de festo, EPSG:20790](Representacao_terreno_portalegre_20790.zip)
-- (Secção 6.4) Paisagem Protegida da Serra de Montejunto: [Curvas de nível, pontos cotados, linhas de água, EPSG:3763](representacao_terreno_montejunto_3763.zip)
+- (Secção 6.2) Portalegre: [Download zip file: Curvas de nível, pontos cotados, linhas de água, linhas de festo, EPSG:20790](Representacao_terreno_portalegre_20790.zip)
+- (Secção 6.4) Paisagem Protegida da Serra de Montejunto: [Download zip file: Curvas de nível, pontos cotados, linhas de água, EPSG:3763](representacao_terreno_montejunto_3763.zip)
 
 Descarregar o modelo digital de elevações para Portugal Continental (Secção 6.4):
 - [Link: SRTM-DEM EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/); ou
@@ -78,5 +78,5 @@ Descarregar o modelo digital de elevações para Portugal Continental (Secção 
 ### Secção 7: Imagens multiespectrais
 
 Imagens multiespectrais (7 bandas) Landsat-8 OLI para a zona do Alqueva:
-- [Zip file: Imagem de 15 de maio 2014](LC82030332014151.zip)
-- [Zip file: Imagem de 1 de junho 2014](LC82030332014167.zip)
+- [Download zip file: Imagem de 15 de maio 2014](LC82030332014151.zip)
+- [Download zip file: Imagem de 1 de junho 2014](LC82030332014167.zip)
