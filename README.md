@@ -40,6 +40,7 @@ Descarregar o modelo digital de elevações para Portugal Continental (25 m)
 - [ALOS-AW3D30 EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/), com algumas falhas.
 
 Scripts em Python para QGIS:
+- Secção 1.4.7 [Criar legenda qualitativa e usar random.randint() para criar cores aleatórias](python_qgis/introQGIS/legenda_qualitativa_random_mylayer.py)
 - Secção 1.4.8 [Criar legenda quantitativa para layer vetorial e colocar etiquetas](python_qgis/introQGIS/legenda_quantitativa_mylayer.py)
 - Secção 1.5.2 [Seleção por atributos e por localização](python_qgis/introQGIS/concMondego.py)
 
