@@ -28,7 +28,7 @@
 
 ---
 
-## Dados para os exercícios do caderno de apoio às aulas práticas
+## Dados para os exercícios do caderno de apoio às aulas práticas, e alguns scripts em Python
 
 ### Secção 1: Introdução a QGIS3
 
