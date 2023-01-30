@@ -40,9 +40,9 @@ Descarregar o modelo digital de elevações para Portugal Continental (25 m)
 - [Link: ALOS-AW3D30 EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/), com algumas falhas.
 
 Scripts em Python para QGIS:
-- Secção 1.4.7 [Download file: Criar legenda qualitativa e usar random.randint() para criar cores aleatórias](python_qgis/introQGIS/legenda_qualitativa_random_mylayer.py)
-- Secção 1.4.8 [Download file: Criar legenda quantitativa para layer vetorial e colocar etiquetas](python_qgis/introQGIS/legenda_quantitativa_mylayer.py)
-- Secção 1.5.2 [Download file: Seleção por atributos e por localização](python_qgis/introQGIS/concMondego.py)
+- Secção 1.4.7 [Download script: Criar legenda qualitativa e usar random.randint() para criar cores aleatórias](python_qgis/introQGIS/legenda_qualitativa_random_mylayer.py)
+- Secção 1.4.8 [Download script: Criar legenda quantitativa para layer vetorial e colocar etiquetas](python_qgis/introQGIS/legenda_quantitativa_mylayer.py)
+- Secção 1.5.2 [Download script: Seleção por atributos e por localização](python_qgis/introQGIS/concMondego.py)
 
 ### Secção 3: Análise espacial para dados vetoriais
 
@@ -57,8 +57,8 @@ Caso não seja possível obter os dados geográficos nos links acima:
 - [Zip file: LAgua, RedeViaria, CartaSolos, UsoSolos, LimConc](analise_espacial_cascais/dados_geog_input_cascais.zip) já pré-processados.
 
 Scripts em Python para QGIS:
-- [Download file: main.py](python_qgis/cascais/main.py)
-- [Download file: cascais_COS_OSM_funcoes_auxiliares.py](python_qgis/cascais/cascais_COS_OSM_funcoes_auxiliares.py)
+- [Download script: main.py](python_qgis/cascais/main.py)
+- [Download script: cascais_COS_OSM_funcoes_auxiliares.py](python_qgis/cascais/cascais_COS_OSM_funcoes_auxiliares.py)
 
 ### Secção 4: Análise de dados "raster" e conversão vetorial/matricial
 
