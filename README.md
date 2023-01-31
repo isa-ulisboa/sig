@@ -14,7 +14,7 @@
 
 ---
 
-## Link para canal youtube com as resoluções dos exercícios do caderno de apoio às aulas práticas
+## Canal youtube com as resoluções dos exercícios do caderno de apoio às aulas práticas
 
 [Canal Youtube](https://www.youtube.com/@qgis3emportugues)
 
