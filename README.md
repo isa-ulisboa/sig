@@ -1,4 +1,4 @@
-# Elementos de apoio às UC da área dos SIG (Geomática e SIGDR) para as licenciaturas do ISA/ULisboa
+# Elementos de apoio às UC sobre Sistemas de Informação Geográfica (Geomática e SIGDR) para as licenciaturas do ISA/ULisboa
 
 ---
 
