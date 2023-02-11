@@ -4,13 +4,13 @@
 
 ## Projeções de apoio às aulas teóricas
 
-[Projeções](slides_uc_sig_2023.pdf) (versão provisória de 23 de janeiro de 2023)
+[Projeções](slides_uc_sig_2023.pdf) (versão de 23 de janeiro de 2023)
 
 ---
 
 ## Caderno de apoio às aulas práticas de Sistemas de Informação Geográfica
 
-[Caderno de apoio](Caderno-aulas-praticas-qgis3_SIG.pdf) (versão provisória de 23 de janeiro de 2023)
+[Caderno de apoio](Caderno-aulas-praticas-qgis3_SIG.pdf) (versão de 11 de fevereiro de 2023)
 
 ---
 
