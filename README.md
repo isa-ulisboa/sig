@@ -28,7 +28,9 @@
 
 ---
 
-## Dados para os exercícios do caderno de apoio às aulas práticas, e alguns scripts em Python
+## Dados para os exercícios do caderno de apoio às aulas práticas, e alguns scripts em Python (***) 
+
+(***) Não faz parte do programa da UC; fica como informação adicional para os interessados.
 
 ### Secção 1: Introdução a QGIS3
 
@@ -39,7 +41,7 @@ Descarregar o modelo digital de elevações para Portugal Continental (25 m)
 - [Link: SRTM-DEM EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/); ou
 - [Link: ALOS-AW3D30 EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/), com algumas falhas.
 
-Scripts em Python para QGIS:
+Scripts em Python para QGIS (***):
 - Secção 1.4.7 [Download script: Criar legenda qualitativa e usar random.randint() para criar cores aleatórias](python_qgis/introQGIS/legenda_qualitativa_random_mylayer.py)
 - Secção 1.4.8 [Download script: Criar legenda quantitativa para layer vetorial e colocar etiquetas](python_qgis/introQGIS/legenda_quantitativa_mylayer.py)
 - Secção 1.5.2 [Download script: Seleção por atributos e por localização](python_qgis/introQGIS/concMondego.py)
@@ -56,7 +58,7 @@ Descarregar os dados para o exercício dos repositórios seguintes:
 Caso não seja possível obter os dados geográficos nos links acima:
 - [Download zip file: LAgua, RedeViaria, CartaSolos, UsoSolos, LimConc](analise_espacial_cascais/dados_geog_input_cascais.zip) já pré-processados.
 
-Scripts em Python para QGIS:
+Scripts em Python para QGIS (***):
 - [Download script: main.py](python_qgis/cascais/main.py)
 - [Download script: cascais_COS_OSM_funcoes_auxiliares.py](python_qgis/cascais/cascais_COS_OSM_funcoes_auxiliares.py)
 
