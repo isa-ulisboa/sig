@@ -28,9 +28,9 @@
 
 ---
 
-## Dados para os exercícios do caderno de apoio às aulas práticas, e alguns scripts em Python (***) 
+## Dados para os exercícios do caderno de apoio às aulas práticas, e (***) alguns scripts em Python
 
-(***) Não faz parte do programa da UC; fica como informação adicional para os interessados.
+(***) Não faz parte do programa da UC; fica como elementos de aopio adicional para os eventuais interessados.
 
 ### Secção 1: Introdução a QGIS3
 
