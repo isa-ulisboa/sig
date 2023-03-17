@@ -51,7 +51,7 @@ Scripts em Python para QGIS:
 Descarregar os dados para o exercício dos repositórios seguintes:
 - Tabelas simples [Download zip file: ProtRV e ProdS](analise_espacial_cascais/tabelas_simples_cascais.zip) 
 - [Link: Carta dos Solos](https://snisolos.dgadr.gov.pt/downloads) no site da DGADR
-- Rede estradas (roads), linhas de água (waterways), uso do solo (landuse), etc [Dados OpenStreetMap para Portugal](https://download.geofabrik.de/europe/portugal.html)
+- Rede estradas (roads), linhas de água (waterways), etc [Dados OpenStreetMap para Portugal](https://download.geofabrik.de/europe/portugal.html)
 - CAOP: Carta Administrativa Oficial de Portugal no [Link: Registo Nacional de dados geográficos/SNIG](https://snig.dgterritorio.gov.pt/rndg/srv/por/catalog.search#/home)
 - COS: Carta de Uso e Ocupação do Solo no [Link: Registo Nacional de dados geográficos/SNIG](https://snig.dgterritorio.gov.pt/rndg/srv/por/catalog.search#/home)
 
