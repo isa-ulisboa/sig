@@ -10,7 +10,7 @@
 
 ## Caderno de apoio às aulas práticas de Sistemas de Informação Geográfica
 
-[Caderno de apoio](Caderno-aulas-praticas-qgis3_SIG.pdf) (versão de 6 de março de 2023)
+[Caderno de apoio](Caderno-aulas-praticas-qgis3_SIG.pdf) (versão de 17 de março de 2023)
 
 ---
 
