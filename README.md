@@ -4,7 +4,7 @@
 
 ## Projeções de apoio às aulas teóricas
 
-[Projeções](slides_uc_sig_2023.pdf) (versão de 9 de março de 2023)
+[Projeções](slides_uc_sig_2023.pdf) (versão de 29 de março de 2023)
 
 ---
 
@@ -55,7 +55,8 @@ Descarregar os dados para o exercício dos repositórios seguintes:
 - CAOP: Carta Administrativa Oficial de Portugal no [Link: Registo Nacional de dados geográficos/SNIG](https://snig.dgterritorio.gov.pt/rndg/srv/por/catalog.search#/home)
 - COS: Carta de Uso e Ocupação do Solo no [Link: Registo Nacional de dados geográficos/SNIG](https://snig.dgterritorio.gov.pt/rndg/srv/por/catalog.search#/home)
 
-Caso não seja possível obter os dados geográficos nos links acima:
+Caso não seja possível obter os dados geográficos nos links acima, pode usar unicamente as tabelas simples e os 5 conjuntos de dados geográficos que pode obter nos links abaixo:
+- Tabelas simples [Download zip file: ProtRV e ProdS](analise_espacial_cascais/tabelas_simples_cascais.zip) 
 - [Download zip file: LAgua, RedeViaria, CartaSolos, UsoSolos, LimConc](analise_espacial_cascais/dados_geog_input_cascais.zip) já pré-processados.
 
 Scripts em Python para QGIS:
