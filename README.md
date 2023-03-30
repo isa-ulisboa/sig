@@ -4,7 +4,7 @@
 
 ## Projeções de apoio às aulas teóricas
 
-[Projeções](slides_uc_sig_2023.pdf) (versão de 29 de março de 2023)
+[Projeções](slides_uc_sig_2023.pdf) (versão de 29 de março de 2023) 
 
 ---
 
