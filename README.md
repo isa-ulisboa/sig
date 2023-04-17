@@ -68,6 +68,10 @@ Scripts em Python para QGIS:
 Dados vetoriais e "raster" para a região de Esposende:
 - [Download zip file: Freguesias, uso do solo, tipo de solo, limites do aquífero, medições pontuais de concentrações de nitratos](Dados_Esposende_3763.zip)
 
+### Secção 5: Sistemas de coordenadas de referência e projeções
+
+- [Download zip file: Vertice geodésico de Sesimbra, estradas Sesimbra HGLx](SistCoordReferenciaProjecoes.zip)
+
 ### Secção 6: Representação cartográfica do relevo
 
 Dados de levantamento topográfico: 
