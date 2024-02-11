@@ -1,16 +1,16 @@
-# Elementos de apoio às UC sobre Sistemas de Informação Geográfica (Geomática e SIGDR) para as licenciaturas do ISA/ULisboa
+# Elementos de apoio à UC de Sistemas de Informação Geográfica para as licenciaturas do ISA/ULisboa
 
 ---
 
 ## Projeções de apoio às aulas teóricas
 
-[Projeções](slides_uc_sig_2023.pdf) (versão de 8 de abril de 2023) 
+[Projeções](slides_uc_sig_2024.pdf) (versão de 11 de fevereiro de 2024) 
 
 ---
 
 ## Caderno de apoio às aulas práticas de Sistemas de Informação Geográfica
 
-[Caderno de apoio](Caderno-aulas-praticas-qgis3_SIG.pdf) (versão de 26 de abril de 2023)
+[Caderno de apoio](Caderno-aulas-praticas-qgis3_SIG.pdf) (versão de 11 de fevereiro de 2024)
 
 ---
 
