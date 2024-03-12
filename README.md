@@ -4,7 +4,7 @@
 
 ## Projeções de apoio às aulas teóricas
 
-[Projeções](slides_uc_sig_2024.pdf) (versão de 11 de fevereiro de 2024) 
+[Projeções](slides_uc_sig_2024.pdf) (versão de 4 de março de 2024) 
 
 ---
 
