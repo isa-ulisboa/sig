@@ -4,7 +4,7 @@
 
 ## Projeções de apoio às aulas teóricas
 
-[Projeções](slides_uc_sig_2024.pdf) (versão de 4 de março de 2024) 
+[Projeções](slides_uc_sig_2024.pdf) (versão de 8 de abril de 2024) 
 
 [Alguns elementos sobre o Sistema Nacional de Informação Cadastral](Cadastro_Predial.pdf) (aula de 18 de março de 2024)
 
