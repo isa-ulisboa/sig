@@ -89,3 +89,6 @@ Descarregar o modelo digital de elevações para Portugal Continental (Secção 
 Imagens multiespectrais (7 bandas) Landsat-8 OLI para a zona do Alqueva:
 - [Download zip file: Imagem de 15 de maio 2014](LC82030332014151.zip)
 - [Download zip file: Imagem de 1 de junho 2014](LC82030332014167.zip)
+
+- [Download zip file: Imagem de 15 de maio 2014 (MacOS: float32)](LC82030332014151_float32.zip)
+- [Download zip file: Imagem de 1 de junho 2014 (MacOS: float32)](LC82030332014167_float32.zip)
