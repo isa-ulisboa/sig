@@ -1,5 +1,6 @@
 # Elementos de apoio à UC de Sistemas de Informação Geográfica para as licenciaturas do ISA/ULisboa
 
+Responsável: Manuel Campagnolo (mlc@isa.ulisboa.pt)
 ---
 
 ## Projeções de apoio às aulas teóricas
