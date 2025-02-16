@@ -4,9 +4,12 @@
 
 ## Projeções de apoio às aulas teóricas
 
-[Projeções](slides_uc_sig_2024.pdf) (versão de 22 de abril de 2024) 
+[Manuel Campagnolo - Projeções](slides_uc_sig_2024.pdf) (versão de 22 de abril de 2024) - material para estudo
 
 [Alguns elementos sobre o Sistema Nacional de Informação Cadastral](Cadastro_Predial.pdf) (aula de 18 de março de 2024)
+
+**Slides das aulas teóricas 2024/2025**
+- [aula 01](https://docs.google.com/presentation/d/12nqBlxaVKIH8I5izmX9HmGn6AFykuouYn_f5h_ZtUGw/edit?usp=sharing)
 
 ---
 
