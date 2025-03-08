@@ -11,6 +11,7 @@
 **Slides das aulas teóricas 2024/2025**
 - [aula 01](https://docs.google.com/presentation/d/12nqBlxaVKIH8I5izmX9HmGn6AFykuouYn_f5h_ZtUGw/edit?usp=sharing)
 - [aula 02](https://docs.google.com/presentation/d/1PAbYxN4jOoz--GHemJlzzeqEad6biOa2GxEFbExQKaU/edit?usp=sharing)
+- [aula 03](https://docs.google.com/presentation/d/1SiunqJfpeGt-GMZMFMWoFK7y-D-lGBWJFaF5yMfxQVg/edit?usp=sharing)
 
 ---
 
