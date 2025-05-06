@@ -94,6 +94,9 @@ Descarregar o modelo digital de elevações para Portugal Continental (Secção 
 - [Link: SRTM-DEM EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/); ou
 - [Link: ALOS-AW3D30 EPSG:3763, GSD=25m](https://www.fc.up.pt/pessoas/jagoncal/dems/), com algumas falhas.
 
+Se o link acima não funcionar, usar
+- [Link: SRTM-DEM EPSG:3763, GSD=25m](https://drive.google.com/file/d/1bQw6JRtUPbTGDlIablRIBr_gK4FIsxpc/view?usp=sharing)
+
 ### Secção 7: Imagens multiespectrais
 
 Imagens multiespectrais (7 bandas) Landsat-8 OLI para a zona do Alqueva:
