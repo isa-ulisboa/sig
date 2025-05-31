@@ -17,6 +17,9 @@
 - [aula 06](https://docs.google.com/presentation/d/1FIYiQFKzUG5YW5BV0sg59eAPDS4u6g8I83nYyFlYty4/edit?usp=sharing)
 - [aula 07](https://docs.google.com/presentation/d/1cZnN4tMANhwVaTZJpXXofbImw2GZIOgiAZmvoSg2piA/edit?usp=sharing)
 - [aula 08](https://docs.google.com/presentation/d/1rEe2I_9QZmNz482gNcXj9MTlIDTWMsgRo-fEZON9T-Y/edit?usp=sharing)
+- [aula 09](https://docs.google.com/presentation/d/1M1E1FxrvEXFCF7mm6GvSpRPXzD93z9ygsXoVC9XQtyY/edit?usp=sharing)
+- [aula 10](https://docs.google.com/presentation/d/1M6kWWh7ohPVnVSmYcg4ErVw2mQQ7tpdlR5oXBtiOONU/edit?usp=sharing)
+- [aula 11](https://docs.google.com/presentation/d/1Hvl1t7Zs0aJfJDKzMA5nXPTRPGKPYth8BHmfQblS85E/edit?usp=sharing)
 
 ---
 
