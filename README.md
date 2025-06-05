@@ -20,6 +20,7 @@
 - [aula 09](https://docs.google.com/presentation/d/1M1E1FxrvEXFCF7mm6GvSpRPXzD93z9ygsXoVC9XQtyY/edit?usp=sharing)
 - [aula 10](https://docs.google.com/presentation/d/1M6kWWh7ohPVnVSmYcg4ErVw2mQQ7tpdlR5oXBtiOONU/edit?usp=sharing)
 - [aula 11](https://docs.google.com/presentation/d/1Hvl1t7Zs0aJfJDKzMA5nXPTRPGKPYth8BHmfQblS85E/edit?usp=sharing)
+- [aula 12](https://docs.google.com/presentation/d/1BTqbCJ0RVPVPWG2cjn9koAyQX9Pqe-cG64rIoMBKjOE/edit?usp=sharing)
 
 ---
 
