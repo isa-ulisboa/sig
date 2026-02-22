@@ -8,6 +8,7 @@
 
 **Slides das aulas teóricas 2025/2026**
 - [aula 01](https://docs.google.com/presentation/d/15UCR6m0YJSncF7jN95zp_Tnfy93ey-gpK5ILGQSZiSY/edit?usp=sharing)
+
 <!-- 
 - [aula 02](https://docs.google.com/presentation/d/1PAbYxN4jOoz--GHemJlzzeqEad6biOa2GxEFbExQKaU/edit?usp=sharing)
 - [aula 03](https://docs.google.com/presentation/d/1SiunqJfpeGt-GMZMFMWoFK7y-D-lGBWJFaF5yMfxQVg/edit?usp=sharing)
