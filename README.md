@@ -6,10 +6,9 @@
 
 [Manuel Campagnolo - Projeções](slides_uc_sig_2024.pdf) (versão de 22 de abril de 2024) - material para estudo
 
-[Alguns elementos sobre o Sistema Nacional de Informação Cadastral](Cadastro_Predial.pdf) (aula de 18 de março de 2024)
-
-**Slides das aulas teóricas 2024/2025**
-- [aula 01](https://docs.google.com/presentation/d/12nqBlxaVKIH8I5izmX9HmGn6AFykuouYn_f5h_ZtUGw/edit?usp=sharing)
+**Slides das aulas teóricas 2025/2026**
+- [aula 01](https://docs.google.com/presentation/d/15UCR6m0YJSncF7jN95zp_Tnfy93ey-gpK5ILGQSZiSY/edit?usp=sharing)
+<!-- 
 - [aula 02](https://docs.google.com/presentation/d/1PAbYxN4jOoz--GHemJlzzeqEad6biOa2GxEFbExQKaU/edit?usp=sharing)
 - [aula 03](https://docs.google.com/presentation/d/1SiunqJfpeGt-GMZMFMWoFK7y-D-lGBWJFaF5yMfxQVg/edit?usp=sharing)
 - [aula 04](https://docs.google.com/presentation/d/1ot364ImHwTwvtW7IEpjMAPV5K-l9P7LCBHBkNeCzhFw/edit?usp=sharing)
@@ -21,6 +20,8 @@
 - [aula 10](https://docs.google.com/presentation/d/1M6kWWh7ohPVnVSmYcg4ErVw2mQQ7tpdlR5oXBtiOONU/edit?usp=sharing)
 - [aula 11](https://docs.google.com/presentation/d/1Hvl1t7Zs0aJfJDKzMA5nXPTRPGKPYth8BHmfQblS85E/edit?usp=sharing)
 - [aula 12](https://docs.google.com/presentation/d/1BTqbCJ0RVPVPWG2cjn9koAyQX9Pqe-cG64rIoMBKjOE/edit?usp=sharing)
+
+-->
 
 ---
 
