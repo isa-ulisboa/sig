@@ -8,10 +8,10 @@
 
 **Slides das aulas teóricas 2025/2026**
 - [aula 01](https://docs.google.com/presentation/d/15UCR6m0YJSncF7jN95zp_Tnfy93ey-gpK5ILGQSZiSY/edit?usp=sharing)
+- [aula 02](https://docs.google.com/presentation/d/1IpwXxR3K5HXQ-gKzpZHTje_JYFpwG48MXTIleqhCtSc/edit?usp=sharing)
+- [aula 03](https://docs.google.com/presentation/d/1TRrKSW4ifbpkhpQDwhbIVzcAvkdUNxYrn1HiEuHCh4w/edit?usp=sharing)
 
 <!-- 
-- [aula 02](https://docs.google.com/presentation/d/1PAbYxN4jOoz--GHemJlzzeqEad6biOa2GxEFbExQKaU/edit?usp=sharing)
-- [aula 03](https://docs.google.com/presentation/d/1SiunqJfpeGt-GMZMFMWoFK7y-D-lGBWJFaF5yMfxQVg/edit?usp=sharing)
 - [aula 04](https://docs.google.com/presentation/d/1ot364ImHwTwvtW7IEpjMAPV5K-l9P7LCBHBkNeCzhFw/edit?usp=sharing)
 - [aula 05](https://docs.google.com/presentation/d/1c60zINYuNSMNlhSHsssKo89qrVf03fZDuotSHFxeSBw/edit?usp=sharing)
 - [aula 06](https://docs.google.com/presentation/d/1FIYiQFKzUG5YW5BV0sg59eAPDS4u6g8I83nYyFlYty4/edit?usp=sharing)
@@ -28,7 +28,7 @@
 
 ## Caderno de apoio às aulas práticas de Sistemas de Informação Geográfica
 
-[Caderno de apoio](./caderno_praticas/Caderno-aulas-praticas-qgis3_SIG_2026.pdf) (versão de 23 de fevereiro de 2026)
+[Caderno de apoio](./caderno_praticas/Caderno-aulas-praticas-qgis3_SIG_2026.pdf) (versão de 08 de março de 2026)
 
 ---
 
