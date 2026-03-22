@@ -28,7 +28,7 @@
 
 ## Caderno de apoio às aulas práticas de Sistemas de Informação Geográfica
 
-[Caderno de apoio](./caderno_praticas/Caderno-aulas-praticas-qgis3_SIG_2026.pdf) (versão de 08 de março de 2026)
+[Caderno de apoio](./caderno_praticas/Caderno-aulas-praticas-qgis3_SIG_2026.pdf) (versão de 22 de março de 2026)
 
 ---
 
