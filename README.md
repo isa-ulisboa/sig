@@ -11,10 +11,10 @@
 - [aula 02](https://docs.google.com/presentation/d/1IpwXxR3K5HXQ-gKzpZHTje_JYFpwG48MXTIleqhCtSc/edit?usp=sharing)
 - [aula 03](https://docs.google.com/presentation/d/1TRrKSW4ifbpkhpQDwhbIVzcAvkdUNxYrn1HiEuHCh4w/edit?usp=sharing)
 - [aula 04](https://docs.google.com/presentation/d/1bxSi5B4PU43JYQl3XoBeyj19_-tWR4vgly3O_RInbPA/edit?usp=sharing)
-- [aula 05](https://docs.google.com/presentation/d/1BOswqS9feUitMTv3e4zqS6RN-nJhYAzujHKckOhh9wg/edit?usp=sharing)
+- [aula 05](https://docs.google.com/presentation/d/1BOswqS9feUitMTv3e4zqS6RN-nJhYAzujHKckOhh9wg/edit?usp=sharing) 
+- [aula 06](https://docs.google.com/presentation/d/1mwNdr4stMufgDdpt8BIIUvbUJRDKbzTcOBirKlNl7bY/edit?usp=sharing)
 
-<!-- 
-- [aula 06](https://docs.google.com/presentation/d/1FIYiQFKzUG5YW5BV0sg59eAPDS4u6g8I83nYyFlYty4/edit?usp=sharing)
+<!--
 - [aula 07](https://docs.google.com/presentation/d/1cZnN4tMANhwVaTZJpXXofbImw2GZIOgiAZmvoSg2piA/edit?usp=sharing)
 - [aula 08](https://docs.google.com/presentation/d/1rEe2I_9QZmNz482gNcXj9MTlIDTWMsgRo-fEZON9T-Y/edit?usp=sharing)
 - [aula 09](https://docs.google.com/presentation/d/1M1E1FxrvEXFCF7mm6GvSpRPXzD93z9ygsXoVC9XQtyY/edit?usp=sharing)
@@ -28,7 +28,7 @@
 
 ## Caderno de apoio às aulas práticas de Sistemas de Informação Geográfica
 
-[Caderno de apoio](./caderno_praticas/Caderno-aulas-praticas-qgis3_SIG_2026.pdf) (versão de 22 de março de 2026)
+[Caderno de apoio](./caderno_praticas/Caderno-aulas-praticas-qgis3_SIG_2026.pdf) (versão de 17 de abril de 2026)
 
 ---
 
