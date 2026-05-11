@@ -14,10 +14,10 @@
 - [aula 05](https://docs.google.com/presentation/d/1BOswqS9feUitMTv3e4zqS6RN-nJhYAzujHKckOhh9wg/edit?usp=sharing) 
 - [aula 06](https://docs.google.com/presentation/d/1mwNdr4stMufgDdpt8BIIUvbUJRDKbzTcOBirKlNl7bY/edit?usp=sharing)
 - [aula 07](https://docs.google.com/presentation/d/1Kip5QoGwkIgz8tU4pD24-8TdCZ2KdppEOHwnaHv999Q/edit?usp=sharing)
+- [aula 08](https://docs.google.com/presentation/d/15EW-ugLnxmJshGU8ZmoKxDvcDHtBRN0UdFjWaibeU6s/edit?usp=sharing)
+- [aula 09](https://docs.google.com/presentation/d/1wIH1wcVx-FON1lb8Xt0ayWjT5-4JnKJIAYdLA8_Xlo8/edit?usp=sharing)
 
 <!--
-- [aula 08](https://docs.google.com/presentation/d/1rEe2I_9QZmNz482gNcXj9MTlIDTWMsgRo-fEZON9T-Y/edit?usp=sharing)
-- [aula 09](https://docs.google.com/presentation/d/1M1E1FxrvEXFCF7mm6GvSpRPXzD93z9ygsXoVC9XQtyY/edit?usp=sharing)
 - [aula 10](https://docs.google.com/presentation/d/1M6kWWh7ohPVnVSmYcg4ErVw2mQQ7tpdlR5oXBtiOONU/edit?usp=sharing)
 - [aula 11](https://docs.google.com/presentation/d/1Hvl1t7Zs0aJfJDKzMA5nXPTRPGKPYth8BHmfQblS85E/edit?usp=sharing)
 - [aula 12](https://docs.google.com/presentation/d/1BTqbCJ0RVPVPWG2cjn9koAyQX9Pqe-cG64rIoMBKjOE/edit?usp=sharing)
